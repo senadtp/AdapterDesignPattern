@@ -1,0 +1,26 @@
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.exe
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.deps.json
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.runtimeconfig.json
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.runtimeconfig.dev.json
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.dll
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.pdb
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.csprojAssemblyReference.cache
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.AssemblyInfoInputs.cache
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.AssemblyInfo.cs
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.dll
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.pdb
+C:\Users\senad\source\repos\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.genruntimeconfig.cache
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.exe
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.deps.json
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.runtimeconfig.json
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.runtimeconfig.dev.json
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.dll
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\bin\Debug\netcoreapp3.1\SavasOyunu.pdb
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.csprojAssemblyReference.cache
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.AssemblyInfoInputs.cache
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.AssemblyInfo.cs
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.dll
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.pdb
+C:\Users\senad\Desktop\gizli saklı işler\ÖDEVLER3SINIF\SenaAdatepe\SavasOyunu\SavasOyunu\obj\Debug\netcoreapp3.1\SavasOyunu.genruntimeconfig.cache
